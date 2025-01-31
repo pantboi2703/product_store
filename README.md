@@ -1,18 +1,39 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+# Project Title
 
-[Video Tutorial on Youtube](https://youtu.be/Dukz-3mS3Us)
+Product Store:- Streamlined Product Management Interface.
 
-About This Course:
+# Project Description 
 
--   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
--   🔥 Build an API
--   📱 Responsive UI With React.js and ChakraUI
--   🐞 Error Handling
--   🌐 Deployment
--   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
+The Product Store Interface is an online platform designed to simplify the process of adding and managing products in an e-commerce store. Users can seamlessly add product images, names, and prices through an intuitive user interface. The system allows for easy editing and deletion of product entries, ensuring that the product catalog is always up-to-date.
+
+# Key Features 
+
+1. Product Addition: Users can add new products by uploading an image, entering the product name, and setting the price.
+
+2. Product Display: Each product entry displays an image, the product name, and the price.
+
+3. Edit Functionality: Users can easily edit the details of existing products using the pencil icon.
+
+4. Delete Functionality: Users can remove products from the catalog by clicking the trash can icon.
+
+5. User Interface: The interface includes a header with the title "PRODUCT STORE" and a shopping cart icon, creating a clear and user-friendly navigation experience.
+
+6. Current Products Section: This section lists all the products currently in the store, along with options to edit or delete each product.
+
+7. Night Mode: A toggle option for night mode, enhancing user comfort during night-time browsing.
+
+8. Add New Product Icon: An icon for quickly adding new products, streamlining the product management process.
+
+# Tech Stack 
+
+Frontend: Developed a frontend using the React JS and Chakra UI.
+
+Backend: For the backend used the Node JS and Express JS.
+
+Database: Utilizes a database management system like MongoDB to store the information of the product.
+
+# Installation 
 
 ### Setup .env file
 
@@ -33,4 +54,8 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
+# Project Screenshot 
+![Project Page](./README.md)
+
+
+
