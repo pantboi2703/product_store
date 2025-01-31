@@ -55,7 +55,7 @@ npm run start
 ```
 
 # Project Screenshot 
-![Project Page](./frontend/public/Store.png.png)
+![Project Page](frontend/public/Store.png.png)
 
 
 
